@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Teng Meng Houy 👋
 
-<!--
-**TengMengHouy-joe/TengMengHouy-joe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can call me Joe. I’m a junior backend developer based in Phnom Penh, Cambodia.
 
-Here are some ideas to get you started:
+I build backend systems using Java, Spring Boot, REST APIs, PostgreSQL, Docker, Git, and microservices. I’m also interested in Axon Framework, CQRS/Event Sourcing, and microfrontend architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Backend:** Java, Spring Boot, REST APIs, Spring Security, JWT
+**Database:** PostgreSQL, SQL, Database Design
+**Architecture:** Microservices, Axon Framework, CQRS/Event Sourcing basics, API Integration
+**Tools:** Git, Docker, Docker Compose, Nginx, Linux, Redis, MinIO
+**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
+
+## Featured Projects
+
+**AuthGate** — Secure tunneling and access management platform similar to ngrok
+**EXSTAD** — Learning Management System with a dynamic roadmap feature
+**Taskify** — Portfolio and task management dashboard
+
+## Contact
+
+* Email: [menghouyteng@gmail.com](mailto:menghouyteng@gmail.com)
+* Telegram: https://t.me/Menghouy1688
+* GitHub: https://github.com/TengMengHouy-joe
