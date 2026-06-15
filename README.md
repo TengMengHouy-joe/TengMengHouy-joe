@@ -6,11 +6,18 @@ I build backend systems using Java, Spring Boot, REST APIs, PostgreSQL, Docker, 
 
 ## Tech Stack
 
-**Backend:** Java, Spring Boot, REST APIs, Spring Security, JWT
+**Main Backend:** Java, Spring Boot, REST APIs, Spring Security, JWT
+
 **Database:** PostgreSQL, SQL, Database Design
+
 **Architecture:** Microservices, Axon Framework, CQRS/Event Sourcing basics, API Integration
+
+**Frontend:** JavaScript, TypeScript, React.js, Next.js, Tailwind CSS
+
 **Tools:** Git, Docker, Docker Compose, Nginx, Linux, Redis, MinIO
-**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
+
+**Other Languages:** Python, C, C++, Rust
+
 
 ## Featured Projects
 
