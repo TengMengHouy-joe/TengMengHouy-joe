@@ -14,9 +14,11 @@ I build backend systems using Java, Spring Boot, REST APIs, PostgreSQL, Docker, 
 
 ## Featured Projects
 
-**AuthGate** — Secure tunneling and access management platform similar to ngrok.
-**EXSTAD** — Learning Management System with a dynamic roadmap feature.
-**Taskify** — Portfolio and task management dashboard.
+**AuthGate**  Secure tunneling and access management platform similar to ngrok.
+
+**EXSTAD**  Learning Management System with a dynamic roadmap feature.
+
+**Taskify**  Portfolio and task management dashboard.
 
 ## Contact
 
