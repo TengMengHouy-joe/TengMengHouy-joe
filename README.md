@@ -24,6 +24,24 @@ I build backend systems using Java, Spring Boot, REST APIs, PostgreSQL, Docker, 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat\&logo=rust\&logoColor=white)
 
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat\&logo=springsecurity\&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat\&logo=spring\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat\&logo=jsonwebtokens\&logoColor=white)
+
+### Architecture
+
+![Microservices](https://img.shields.io/badge/Microservices-2F3542?style=flat)
+![Axon Framework](https://img.shields.io/badge/Axon_Framework-4B32C3?style=flat)
+![CQRS](https://img.shields.io/badge/CQRS-2F3542?style=flat)
+![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-2F3542?style=flat)
+![API Integration](https://img.shields.io/badge/API_Integration-02569B?style=flat)
+
+
 
 
 ## Featured Projects
